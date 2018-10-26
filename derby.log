@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 25 22:07:27 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-ae20-5a01-000007266ff8 
+on database directory F:\CIS2206 - Business Programming I\PopulationDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/F:/CIS2206%20-%20Business%20Programming%20I/Project%20II/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=F:\CIS2206 - Business Programming I\Project II
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
